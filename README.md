@@ -1,7 +1,6 @@
-
-Сайт по выбору пульсометра.
-В проекте: 1)сверстана форма обратной связи;
-           2)создан слайдер при помощи slick-слайдер,интерактивные табы и карта;
-           3)созданы модальные окна на сайте;
-           4)подключена маска ввода номера телефона, написан скрипт отправки на почту и реализован плавный скролл;
-           5)подключены animate.css и wow.js для красивой анимации.
+Website to choose a heart rate monitor.
+In the project: 1) the feedback form is made; 
+                2) the slider is created by slick-slider, interactive tabs and map; 
+                3) modal windows are created on the site; 
+                4) the mask of entering a phone number is connected, the script is written to send to the mail and realized smooth scrolling; 
+                5) animate.css and wow.js are connected for a beautiful animation.
